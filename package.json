@@ -1,0 +1,11 @@
+{
+  "name": "@bishoy_melek_wadie/s3_image_uploader",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bishoymelekwadie@gmail.com",
+  "license": "ISC"
+}
